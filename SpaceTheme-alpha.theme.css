@@ -1,0 +1,29 @@
+/**
+* @name SpaceTheme
+* @author @spaceenergy
+* @version alpha
+* @description SpaceTheme for Discord
+* @invite 7Zv8Xz3Vzn
+* @donate https://ko-fi.com/spaceenergy
+* @authorLink https://github.com/SpaceEnergy
+* @source https://github.com/SpaceEnergy/SpaceTheme-Discord
+* @website https://spaceenergy.github.io
+**/
+
+@import url("https://spaceenergy.github.io/SpaceTheme/Discord/files/core/main.css");
+
+:root {
+    /* Theme Settings */
+    --color-1: #111111;
+    --color-2: #1e1e1e;
+    --color-3: #141414;
+    --color-4: #181818;
+    --color-5: #26292c;
+    --color-6: #262629;
+    --accent: #666CFF;
+    --accent-2: #878CFF;
+    --background: #0a0a0a;
+    
+    /* Custom Home Icon */
+    --home-icon: url("https://discord.com/assets/99e79fc8aff1ebe7fd97fb5fd799a2bd.webp");
+}
